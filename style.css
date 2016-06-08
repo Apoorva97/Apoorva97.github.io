@@ -1,201 +1,200 @@
 #s_box
-{ width:100dp;
-  height:100dp;
+{ width:12.5%;
+  height:22%;
   background-color:Red;
-  margin-top:70dp;
-  margin-left:200dp;
+  margin-top:8.5%;
+  margin-left:25%;
   position:absolute;
   text-align:center;
         font-family:"Times New Roman";
-  font-size:100dp;
-  size:50dp;
-}
+  font-size:600%;
+  }
 
 #s_box1
-{ width:100dp;
-  height:100dp;
+{ width:12.5%;
+  height:22%;
   background-color:Red;
-  margin-top:70dp;
-  margin-left:320dp;
+  margin-top:8.5%;
+  margin-left:39.5%;
   position:absolute;
   text-align:center;
         font-family:"Times New Roman";
-  font-size:100dp;
+  font-size:600%;
 
 }
 
 #s_box2
-{ width:100dp;
-  height:100dp;
+{ width:12.5%;
+  height:22%;
   background-color:Red;
-  margin-top:70dp;
-  margin-left:440dp;
+  margin-top:8.5%;
+  margin-left:54%;
   position:absolute;
   font-family:"Times New Roman";
-  font-size:100dp;
+  font-size:600%;
   text-align:center;
 }
 
 #s_box3
-{ width:100dp;
-  height:100dp;
+{ width:12.5%;
+  height:22%;
   background-color:Red;
-  margin-top:70dp;
-  margin-left:560dp;
+  margin-top:8.5%;
+  margin-left:69%;
   position:absolute;
   text-align:center;
   font-family:"Times New Roman";
-  font-size:100dp;
+  font-size:600%;
 
 }
 
 #s_box4
-{ width:100dp;
-  height:100dp;
+{ width:12.5%;
+  height:22%;
   background-color:Red;
-  margin-top:190dp;
-  margin-left:200dp;
+  margin-top:23.5%;
+  margin-left:25%;
   position:absolute;
   text-align:center;
   font-family:"Times New Roman";
-  font-size:100dp;
+  font-size:600%;
 
 }
 #s_box5
-{ width:100dp;
-  height:100dp;
+{ width:12.5%;
+  height:22%;
   background-color:Red;
-  margin-top:190dp;
-  margin-left:320dp;
+  margin-top:23.5%;
+  margin-left:39.5%;
   position:absolute;
   text-align:center;
   font-family:"Times New Roman";
-  font-size:100dp;
+  font-size:600%;
 
 }
 #s_box6
-{ width:100dp;
-  height:100dp;
+{ width:12.5%;
+  height:22%;
   background-color:Red;
-  margin-top:190dp;
-  margin-left:440dp;
+  margin-top:23.5%;
+  margin-left:54%;
   position:absolute;
   text-align:center;
   font-family:"Times New Roman";
-  font-size:100dp;
+  font-size:600%;
 
 }
 
 #s_box7
-{ width:100dp;
-  height:100dp;
+{ width:12.5%;
+  height:22%;
   background-color:Red;
-  margin-top:190dp;
-  margin-left:560dp;
+  margin-top:23.5%;
+  margin-left:69%;
   position:absolute;
   text-align:center;
   font-family:"Times New Roman";
-  font-size:100dp;
+  font-size:600%;
 
 }
 
 #s_box8
-{ width:100dp;
-  height:100dp;
+{ width:12.5%;
+  height:22%;
   background-color:Red;
-  margin-top:310dp;
-  margin-left:200dp;
+  margin-top:38.5%;
+  margin-left:25%;
   position:absolute;
   text-align:center;
   font-family:"Times New Roman";
-  font-size:100dp;
+  font-size:600%;
 
 }
 
 #s_box9
-{ width:100dp;
-  height:100dp;
+{ width:12.5%;
+  height:22%;
   background-color:Red;
-  margin-top:310dp;
-  margin-left:320dp;
+  margin-top:38.5%;
+  margin-left:39.5%;
   position:absolute;
   text-align:center;
   font-family:"Times New Roman";
-  font-size:100dp;
+  font-size:600%;
 
 }
 
 #s_box10
-{ width:100dp;
-  height:100dp;
+{ width:12.5%;
+  height:22%;
   background-color:Red;
-  margin-top:310dp;
-  margin-left:440dp;
+  margin-top:38.5%;
+  margin-left:54%;
   position:absolute;
   text-align:center;
   font-family:"Times New Roman";
-  font-size:100dp;
+  font-size:600%;
    
 
 }
 
 #s_box11
-{ width:100dp;
-  height:100dp;
+{ width:12.5%;
+  height:22%;
   background-color:Red;
-  margin-top:310dp;
-  margin-left:560dp;
+  margin-top:38.5%;
+  margin-left:69%;
   position:absolute;
   text-align:center;
   font-family:"Times New Roman";
-  font-size:100dp;
+  font-size:600%;
 }
 
 #s_box12
-{ width:100dp;
-  height:100dp;
+{ width:12.5%;
+  height:22%;
   background-color:Red;
-  margin-top:430dp;
-  margin-left:200dp;
+  margin-top:53.5%;
+  margin-left:25%;
   position:absolute;
   text-align:center;
   font-family:"Times New Roman";
-  font-size:100dp;
+  font-size:600%;
 }
 
 #s_box13
-{ width:100dp;
-  height:100dp;
+{ width:12.5%;
+  height:22%;
   background-color:Red;
-  margin-top:430dp;
-  margin-left:320dp;
+  margin-top:53.5%;
+  margin-left:39.5%;
   position:absolute;
   text-align:center;
   font-family:"Times New Roman";
-  font-size:100dp;
+  font-size:600%;
 }
 
 #s_box14
-{ width:100dp;
-  height:100dp;
+{ width:12.5%;
+  height:22%;
   background-color:Red;
-  margin-top:430dp;
-  margin-left:440dp;
+  margin-top:53.5%;
+  margin-left:54%;
   position:absolute;
   text-align:center;
   font-family:"Times New Roman";
-  font-size:100dp;
+  font-size:600%;
 }
 
 #s_box15
-{ width:100dp;
-  height:100dp;
+{ width:12.5%;
+  height:22%;
   background-color:Red;
-  margin-top:430dp;
-  margin-left:560dp;
+  margin-top:53.5%;
+  margin-left:69%;
   position:absolute;
   text-align:center;
   font-family:"Times New Roman";
-  font-size:100dp;
+  font-size:600%;
   
 }
